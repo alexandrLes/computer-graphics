@@ -1,4 +1,4 @@
 # computer-graphics
 repo for computer-graphics
 
-`pip install PyOpenGL PyOpenGL_accelerate`
+install PyOpenGL: `pip install PyOpenGL
